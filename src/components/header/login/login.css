@@ -1,9 +1,12 @@
+
 .login{
     width: 300px;
-    height: 300px;
+    height: auto;
     border:  2px solid black;
     margin: 200px auto;
     padding: 20px ; 
+    border-radius: 20px;
+    background-color: antiquewhite;
 
 }
 .login-title{
